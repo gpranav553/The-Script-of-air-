@@ -29,7 +29,3 @@ Recognize Number:-
 Recognize Alphabet:-
 
 ![image](https://user-images.githubusercontent.com/59532169/169995526-c736abf1-2ba2-4d2a-8a74-01b99ab7b271.png)
-
-Demo Video:-
-
-https://user-images.githubusercontent.com/59532169/169997357-f720a0b4-f534-42fe-9042-764af3b2bb18.mp4
